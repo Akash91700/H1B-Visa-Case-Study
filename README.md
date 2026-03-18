@@ -1,7 +1,7 @@
 # US H1B Visa Data Analysis Project
 
 This project focuses on analyzing H1B visa data to uncover trends, patterns, and insights using **Python for data cleaning** and **Power BI for visualization**.
-
+![Dash Board View](https://github.com/Akash91700/H1B-Visa-Case-Study/blob/main/Screenshot%201%20.png)
 ---
 
 ## 📊 Tools & Technologies Used
