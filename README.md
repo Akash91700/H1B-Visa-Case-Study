@@ -2,8 +2,6 @@
 
 This project focuses on analyzing H1B visa data to uncover trends, patterns, and insights using **Python for data cleaning** and **Power BI for visualization**.
 
-
-![project_demo]()
 ---
 
 ## 📊 Tools & Technologies Used
